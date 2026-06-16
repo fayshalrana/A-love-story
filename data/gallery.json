@@ -1,0 +1,110 @@
+[
+  {
+    "id": "g2017-1",
+    "src": "https://images.unsplash.com/photo-1516589178581-6adc783cc498?w=600&q=80",
+    "alt": "First meeting memory",
+    "year": 2017,
+    "caption": "Where it all began",
+    "width": 600,
+    "height": 800
+  },
+  {
+    "id": "g2017-2",
+    "src": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=600&q=80",
+    "alt": "Early days together",
+    "year": 2017,
+    "caption": "Early days",
+    "width": 600,
+    "height": 400
+  },
+  {
+    "id": "g2018-1",
+    "src": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+    "alt": "Growing together 2018",
+    "year": 2018,
+    "caption": "Growing together",
+    "width": 600,
+    "height": 700
+  },
+  {
+    "id": "g2018-2",
+    "src": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+    "alt": "Adventures 2018",
+    "year": 2018,
+    "caption": "Our adventures",
+    "width": 600,
+    "height": 450
+  },
+  {
+    "id": "g2019-1",
+    "src": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=600&q=80",
+    "alt": "Celebrations 2019",
+    "year": 2019,
+    "caption": "Celebrations",
+    "width": 600,
+    "height": 500
+  },
+  {
+    "id": "g2020-1",
+    "src": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+    "alt": "Family moments 2020",
+    "year": 2020,
+    "caption": "Family moments",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "id": "g2021-1",
+    "src": "https://images.unsplash.com/photo-1518621012428-7018d3b25f12?w=600&q=80",
+    "alt": "Through it all 2021",
+    "year": 2021,
+    "caption": "Through it all",
+    "width": 600,
+    "height": 750
+  },
+  {
+    "id": "g2022-1",
+    "src": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&q=80",
+    "alt": "Little joys 2022",
+    "year": 2022,
+    "caption": "Little joys",
+    "width": 600,
+    "height": 400
+  },
+  {
+    "id": "g2023-1",
+    "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+    "alt": "Deeper bond 2023",
+    "year": 2023,
+    "caption": "Deeper bond",
+    "width": 600,
+    "height": 650
+  },
+  {
+    "id": "g2024-1",
+    "src": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=600&q=80",
+    "alt": "Building dreams 2024",
+    "year": 2024,
+    "caption": "Building dreams",
+    "width": 600,
+    "height": 500
+  },
+  {
+    "id": "g2025-1",
+    "src": "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&q=80",
+    "alt": "Engagement 2025",
+    "year": 2025,
+    "caption": "The promise",
+    "width": 600,
+    "height": 800
+  },
+  {
+    "id": "g2026-1",
+    "src": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=600&q=80",
+    "alt": "Wedding preparations 2026",
+    "year": 2026,
+    "caption": "Forever begins",
+    "width": 600,
+    "height": 550
+  }
+]

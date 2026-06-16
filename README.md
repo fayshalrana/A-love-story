@@ -29,6 +29,50 @@ npm run build
 npm start
 ```
 
+## Deploy to Vercel
+
+This project includes a `vercel.json` configured for Next.js App Router.
+
+### Quick deploy
+
+1. Push the repo to GitHub
+2. Import the project at [vercel.com/new](https://vercel.com/new)
+3. Use these settings:
+
+| Setting | Value |
+|---------|-------|
+| **Framework Preset** | Next.js |
+| **Root Directory** | `.` (leave empty / repo root) |
+| **Build Command** | `npm run build` |
+| **Output Directory** | *(leave empty — Vercel auto-detects)* |
+| **Install Command** | `npm install` |
+
+4. Add environment variable (optional but recommended):
+
+```
+NEXT_PUBLIC_SITE_URL=https://your-project.vercel.app
+```
+
+5. Deploy
+
+### CLI deploy
+
+```bash
+npm i -g vercel
+vercel
+vercel --prod
+```
+
+### Fixing Vercel 404 errors
+
+If you see `404: NOT_FOUND` on your Vercel URL:
+
+- Confirm **Root Directory** points to the folder containing `package.json`
+- Leave **Output Directory** blank (do not set `.next` manually)
+- Ensure **Framework Preset** is **Next.js**, not "Other"
+- Check the latest deployment **Build Logs** — the build must succeed
+- Redeploy after pushing `vercel.json`
+
 ## Customization Guide
 
 ### Couple Details

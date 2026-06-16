@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f1",
+    "name": "Father",
+    "relationship": "Fayshal's Father",
+    "category": "parents",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    "message": "Thank you for your wisdom, guidance, and unconditional love."
+  },
+  {
+    "id": "f2",
+    "name": "Mother",
+    "relationship": "Juthy's Mother",
+    "category": "parents",
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+    "message": "Your warmth and care have shaped who we are today."
+  },
+  {
+    "id": "f3",
+    "name": "Brother",
+    "relationship": "Fayshal's Brother",
+    "category": "siblings",
+    "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+    "message": "For all the laughs, support, and being our biggest cheerleader."
+  },
+  {
+    "id": "f4",
+    "name": "Sister",
+    "relationship": "Juthy's Sister",
+    "category": "siblings",
+    "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+    "message": "A sister, a friend, and our confidante through everything."
+  },
+  {
+    "id": "f5",
+    "name": "Best Friend",
+    "relationship": "College Friend",
+    "category": "friends",
+    "photo": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&q=80",
+    "message": "For standing by us through every chapter of our story."
+  },
+  {
+    "id": "f6",
+    "name": "Uncle",
+    "relationship": "Family Elder",
+    "category": "relatives",
+    "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+    "message": "Your blessings and encouragement mean the world to us."
+  }
+]

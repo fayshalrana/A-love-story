@@ -1,0 +1,47 @@
+[
+  {
+    "id": "v1",
+    "title": "Our First Trip",
+    "description": "Exploring new places hand in hand.",
+    "thumbnail": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=600&q=80",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "category": "trips",
+    "date": "2019-03-15"
+  },
+  {
+    "id": "v2",
+    "title": "Birthday Surprise",
+    "description": "A day filled with laughter and love.",
+    "thumbnail": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&q=80",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "category": "birthdays",
+    "date": "2020-08-22"
+  },
+  {
+    "id": "v3",
+    "title": "Eid Celebration",
+    "description": "Family, food, and festive joy.",
+    "thumbnail": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=600&q=80",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "category": "celebrations",
+    "date": "2021-05-13"
+  },
+  {
+    "id": "v4",
+    "title": "Family Gathering",
+    "description": "When our families came together.",
+    "thumbnail": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "category": "family",
+    "date": "2022-11-20"
+  },
+  {
+    "id": "v5",
+    "title": "Wedding Shopping",
+    "description": "Picking out our forever details.",
+    "thumbnail": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=600&q=80",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "category": "wedding",
+    "date": "2026-02-14"
+  }
+]

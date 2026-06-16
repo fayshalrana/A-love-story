@@ -1,0 +1,18 @@
+{
+  "name": "Fayshal & Juthy",
+  "short_name": "F & J",
+  "description": "9 Years of Love — A digital love story",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#D4A373",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

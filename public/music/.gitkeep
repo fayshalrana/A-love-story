@@ -1,0 +1,2 @@
+# Place your romantic background music file here as background.mp3
+# The music player in components/ui/MusicPlayer.tsx references /music/background.mp3

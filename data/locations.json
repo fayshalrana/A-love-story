@@ -1,0 +1,62 @@
+[
+  {
+    "id": "loc1",
+    "title": "Where We First Met",
+    "date": "2017-06-22",
+    "description": "A ordinary day that became extraordinary. This is where our story began.",
+    "images": [
+      "https://images.unsplash.com/photo-1516589178581-6adc783cc498?w=600&q=80"
+    ],
+    "category": "first-meeting",
+    "lat": 23.8103,
+    "lng": 90.4125
+  },
+  {
+    "id": "loc2",
+    "title": "Our Favorite Date Spot",
+    "date": "2018-02-14",
+    "description": "Countless evenings spent here, talking until the stars came out.",
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80"
+    ],
+    "category": "favorite-date",
+    "lat": 23.7808,
+    "lng": 90.4074
+  },
+  {
+    "id": "loc3",
+    "title": "Family Gathering Place",
+    "date": "2020-03-10",
+    "description": "Where our families first met and welcomed each other with open hearts.",
+    "images": [
+      "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80"
+    ],
+    "category": "family",
+    "lat": 23.7925,
+    "lng": 90.4078
+  },
+  {
+    "id": "loc4",
+    "title": "Wedding Shopping Memories",
+    "date": "2026-01-15",
+    "description": "Every shop, every choice — building our dream wedding together.",
+    "images": [
+      "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=600&q=80"
+    ],
+    "category": "shopping",
+    "lat": 23.7461,
+    "lng": 90.3742
+  },
+  {
+    "id": "loc5",
+    "title": "Our Wedding Venue",
+    "date": "2026-06-26",
+    "description": "The place where we will say 'I do' and begin our forever.",
+    "images": [
+      "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&q=80"
+    ],
+    "category": "wedding-venue",
+    "lat": 23.8103,
+    "lng": 90.4125
+  }
+]

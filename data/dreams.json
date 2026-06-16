@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d1",
+    "title": "Building Our Home",
+    "description": "Creating a warm sanctuary filled with love, laughter, and memories.",
+    "icon": "home"
+  },
+  {
+    "id": "d2",
+    "title": "Traveling the World",
+    "description": "Exploring new cultures, cuisines, and horizons hand in hand.",
+    "icon": "globe"
+  },
+  {
+    "id": "d3",
+    "title": "Supporting Each Other",
+    "description": "Championing each other's dreams and ambitions every single day.",
+    "icon": "heart"
+  },
+  {
+    "id": "d4",
+    "title": "Growing Old Together",
+    "description": "Walking through life side by side, growing wiser and more in love.",
+    "icon": "infinity"
+  }
+]
