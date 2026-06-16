@@ -80,7 +80,7 @@ export default function WishesSection() {
                 type="text"
                 value={name}
                 onChange={(e) => setName(e.target.value)}
-                className="w-full px-4 py-3 rounded-xl bg-white border border-pink-light text-charcoal dark:bg-charcoal-light/50 dark:border-rose-gold/20 dark:text-cream focus:border-pink dark:focus:border-rose-gold outline-none transition-colors"
+                className="w-full px-4 py-3 rounded-xl bg-white border border-pink-light text-charcoal dark:bg-charcoal-light/50 dark:border-rose-gold/20 dark:text-cream focus:border-rose-gold outline-none transition-colors"
                 required
                 aria-required="true"
               />
@@ -95,7 +95,7 @@ export default function WishesSection() {
                 value={relationship}
                 onChange={(e) => setRelationship(e.target.value)}
                 placeholder="Friend, Family, Colleague..."
-                className="w-full px-4 py-3 rounded-xl bg-white border border-pink-light text-charcoal dark:bg-charcoal-light/50 dark:border-rose-gold/20 dark:text-cream focus:border-pink dark:focus:border-rose-gold outline-none transition-colors"
+                className="w-full px-4 py-3 rounded-xl bg-white border border-pink-light text-charcoal dark:bg-charcoal-light/50 dark:border-rose-gold/20 dark:text-cream focus:border-rose-gold outline-none transition-colors"
               />
             </div>
           </div>
@@ -108,7 +108,7 @@ export default function WishesSection() {
               value={message}
               onChange={(e) => setMessage(e.target.value)}
               rows={4}
-              className="w-full px-4 py-3 rounded-xl bg-white border border-pink-light text-charcoal dark:bg-charcoal-light/50 dark:border-rose-gold/20 dark:text-cream focus:border-pink dark:focus:border-rose-gold outline-none transition-colors resize-none"
+              className="w-full px-4 py-3 rounded-xl bg-white border border-pink-light text-charcoal dark:bg-charcoal-light/50 dark:border-rose-gold/20 dark:text-cream focus:border-rose-gold outline-none transition-colors resize-none"
               required
               aria-required="true"
             />
@@ -125,7 +125,7 @@ export default function WishesSection() {
           )}
           <button
             type="submit"
-            className="px-8 py-3 bg-gradient-to-r from-rose-gold to-dusty-pink text-white rounded-full text-sm uppercase tracking-widest hover:shadow-lg transition-shadow cursor-pointer"
+            className="px-8 py-3 btn-primary"
           >
             Send Wish
           </button>

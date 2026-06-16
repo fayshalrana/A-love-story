@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { HiMenuAlt3, HiX, HiSun, HiMoon } from "react-icons/hi";
@@ -44,10 +45,19 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between">
         <button
           onClick={() => handleNav("hero")}
-          className="font-serif text-xl text-gradient cursor-pointer"
+          className="font-serif text-xl cursor-pointer flex items-center"
           aria-label="Go to home"
         >
-          F & J
+          <span className="text-gradient">F</span>
+          <Image
+            src="/cate face.png"
+            alt=""
+            width={24}
+            height={24}
+            className="w-6 h-6 rounded-full object-cover object-top"
+            aria-hidden
+          />
+          <span className="text-gradient">J</span>
         </button>
 
         <div className="hidden lg:flex items-center gap-6">
@@ -55,7 +65,7 @@ export default function Navigation() {
             <button
               key={item.id}
               onClick={() => handleNav(item.id)}
-              className="text-sm uppercase tracking-wider text-charcoal/80 dark:text-cream/80 hover:text-pink-deep dark:hover:text-rose-gold transition-colors cursor-pointer"
+              className="text-sm uppercase tracking-wider text-charcoal/80 dark:text-cream/80 hover:text-rose-gold transition-colors cursor-pointer"
             >
               {item.label}
             </button>
@@ -117,7 +127,7 @@ export default function Navigation() {
                 <button
                   key={item.id}
                   onClick={() => handleNav(item.id)}
-                  className="text-left py-2 text-sm uppercase tracking-wider text-charcoal/80 dark:text-cream/80 hover:text-pink-deep dark:hover:text-rose-gold transition-colors cursor-pointer"
+                  className="text-left py-2 text-sm uppercase tracking-wider text-charcoal/80 dark:text-cream/80 hover:text-rose-gold transition-colors cursor-pointer"
                 >
                   {item.label}
                 </button>

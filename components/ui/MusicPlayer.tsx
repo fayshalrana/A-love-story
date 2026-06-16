@@ -88,7 +88,7 @@ export default function MusicPlayer() {
       </audio>
       <motion.button
         onClick={toggle}
-        className="fixed bottom-6 right-6 z-50 w-12 h-12 rounded-full glass flex items-center justify-center text-pink-deep dark:text-rose-gold hover:scale-110 transition-transform"
+        className="fixed bottom-6 right-6 z-50 w-12 h-12 rounded-full glass flex items-center justify-center text-rose-gold hover:scale-110 transition-transform"
         whileTap={{ scale: 0.95 }}
         aria-label={playing ? "Pause background music" : "Play background music"}
         title={playing ? "Pause music" : "Play music"}

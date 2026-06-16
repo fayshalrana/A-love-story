@@ -54,7 +54,7 @@ export default function HeroSection() {
           </motion.p>
           <motion.button
             onClick={() => scrollToSection("stats")}
-            className="px-8 py-4 bg-gradient-to-r from-rose-gold to-dusty-pink text-white rounded-full text-sm uppercase tracking-widest hover:shadow-lg hover:shadow-rose-gold/30 transition-shadow cursor-pointer"
+            className="px-8 py-4 btn-primary"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.98 }}
             initial={{ opacity: 0, y: 20 }}
@@ -73,7 +73,7 @@ export default function HeroSection() {
         >
           <div className="relative aspect-[3/4] max-w-md mx-auto rounded-3xl overflow-hidden shadow-2xl shadow-rose-gold/20">
             <Image
-              src="https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80"
+              src="/hero.jpg"
               alt="Fayshal and Juthy"
               fill
               className="object-cover"
