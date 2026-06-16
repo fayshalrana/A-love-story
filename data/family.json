@@ -4,7 +4,7 @@
     "name": "Father",
     "relationship": "Fayshal's Father",
     "category": "parents",
-    "photo": "/loading.jpg",
+    "photo": "/fatherJuthy.jpeg",
     "message": "Thank you for your wisdom, guidance, and unconditional love."
   },
   {
@@ -12,11 +12,27 @@
     "name": "Mother",
     "relationship": "Juthy's Mother",
     "category": "parents",
-    "photo": "/loading.jpg",
+    "photo": "/motherJuthy.jpg",
     "message": "Your warmth and care have shaped who we are today."
   },
   {
     "id": "f3",
+    "name": "Father",
+    "relationship": "Fayshal's Father",
+    "category": "parents",
+    "photo": "/loading.jpg",
+    "message": "Your wisdom, guidance, and unconditional love have shaped who we are today."
+  },
+  {
+    "id": "f4",
+    "name": "Mother",
+    "relationship": "Fayshal's Mother",
+    "category": "parents",
+    "photo": "/loading.jpg",
+    "message": "Your warmth and care have shaped who we are today."
+  },
+  {
+    "id": "f5",
     "name": "Brother",
     "relationship": "Fayshal's Brother",
     "category": "siblings",
@@ -24,7 +40,15 @@
     "message": "For all the laughs, support, and being our biggest cheerleader."
   },
   {
-    "id": "f4",
+    "id": "f6",
+    "name": "Sister",
+    "relationship": "Juthy's Sister",
+    "category": "siblings",
+    "photo": "/juruna.jpeg",
+    "message": "A sister, a friend, and our confidante through everything."
+  },
+  {
+    "id": "f7",
     "name": "Sister",
     "relationship": "Juthy's Sister",
     "category": "siblings",
@@ -32,17 +56,17 @@
     "message": "A sister, a friend, and our confidante through everything."
   },
   {
-    "id": "f5",
-    "name": "Best Friend",
-    "relationship": "College Friend",
-    "category": "friends",
-    "photo": "/loading.jpg",
-    "message": "For standing by us through every chapter of our story."
+    "id": "f9",
+    "name": "Aunty",
+    "relationship": "Juthy's Aunt",
+    "category": "relatives",
+    "photo": "/auntJuthy.jpg",
+    "message": "Your blessings and encouragement mean the world to us."
   },
   {
-    "id": "f6",
+    "id": "f10",
     "name": "Uncle",
-    "relationship": "Family Elder",
+    "relationship": "Juthy's Uncle",
     "category": "relatives",
     "photo": "/loading.jpg",
     "message": "Your blessings and encouragement mean the world to us."
