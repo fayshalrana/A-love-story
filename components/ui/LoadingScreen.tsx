@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
 import { useEffect, useState } from "react";
 
@@ -35,11 +36,21 @@ export default function LoadingScreen({ onComplete }: LoadingScreenProps) {
             className="text-center"
           >
             <motion.div
-              className="text-6xl md:text-8xl font-serif text-gradient mb-4"
+              className="flex items-center justify-center gap-2 md:gap-3 text-6xl md:text-8xl font-serif mb-4"
               animate={{ scale: [1, 1.05, 1] }}
               transition={{ duration: 2, repeat: Infinity }}
             >
-              F & J
+              <span className="text-gradient">F</span>
+              <Image
+                src="/cate face.png"
+                alt=""
+                width={64}
+                height={64}
+                className="w-12 h-12 md:w-16 md:h-16 rounded-full object-cover object-top ring-2 ring-pink-light/70 dark:ring-rose-gold/40"
+                aria-hidden
+                priority
+              />
+              <span className="text-gradient">J</span>
             </motion.div>
             <motion.p
               className="text-charcoal/60 dark:text-cream/60 text-sm tracking-[0.3em] uppercase"

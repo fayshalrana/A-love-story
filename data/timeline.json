@@ -6,8 +6,8 @@
     "description": "The day everything changed. Two people met without knowing they would eventually become family.",
     "location": "Dhaka, Bangladesh",
     "images": [
-      "https://images.unsplash.com/photo-1516589178581-6adc783cc498?w=800&q=80",
-      "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=800&q=80"
+      "/Preset.jpg",
+      "/Preset.jpg"
     ],
     "side": "right"
   },
@@ -18,7 +18,8 @@
     "description": "Hours passed like minutes. We talked about dreams, families, and the little things that make life beautiful.",
     "location": "A quiet café",
     "images": [
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+      "/Preset.jpg",
+      "/Preset.jpg"
     ],
     "side": "left"
   },
@@ -28,8 +29,8 @@
     "title": "First Photo Together",
     "description": "Our first captured moment — awkward smiles, genuine happiness, and the beginning of countless memories.",
     "images": [
-      "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
-      "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&q=80"
+      "/Preset.jpg",
+      "/Preset.jpg"
     ],
     "side": "right"
   },
@@ -40,7 +41,8 @@
     "description": "Celebrating together for the first time. New clothes, sweet moments, and the warmth of shared traditions.",
     "location": "Family home",
     "images": [
-      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&q=80"
+      "/Preset.jpg",
+      "/Preset.jpg"
     ],
     "side": "left"
   },
@@ -50,7 +52,8 @@
     "title": "First Gift",
     "description": "A small token of affection that meant the world. It wasn't about the gift — it was about the thought behind it.",
     "images": [
-      "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80"
+      "/Preset.jpg",
+      "/Preset.jpg"
     ],
     "side": "right"
   },
@@ -60,7 +63,8 @@
     "title": "Difficult Times We Overcame",
     "description": "Every relationship faces storms. We learned that love isn't about never falling — it's about always rising together.",
     "images": [
-      "https://images.unsplash.com/photo-1518621012428-7018d3b25f12?w=800&q=80"
+      "/Preset.jpg",
+      "/Preset.jpg"
     ],
     "side": "left"
   },
@@ -71,7 +75,8 @@
     "description": "Nervous hearts, warm welcomes, and the moment our families became one story.",
     "location": "Juthy's family home",
     "images": [
-      "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80"
+      "/Preset.jpg",
+      "/Preset.jpg"
     ],
     "side": "right"
   },
@@ -82,8 +87,8 @@
     "description": "The promise was made official. Two families united, two hearts pledged forever.",
     "location": "Dhaka",
     "images": [
-      "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
-      "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=800&q=80"
+      "/Preset.jpg",
+      "/Preset.jpg"
     ],
     "side": "left"
   },
@@ -93,7 +98,8 @@
     "title": "Wedding Preparations",
     "description": "Shopping, planning, dreaming — every detail woven with love and excitement for our new beginning.",
     "images": [
-      "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&q=80"
+      "/Preset.jpg",
+      "/Preset.jpg"
     ],
     "side": "right"
   },
@@ -104,7 +110,8 @@
     "description": "The day we become one. Nine years of love culminating in a forever promise.",
     "location": "Our wedding venue",
     "images": [
-      "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80"
+      "/Preset.jpg",
+      "/Preset.jpg"
     ],
     "side": "left"
   }
